@@ -1,4 +1,4 @@
-# gericht-restaurant-webapp.gihub.io
+# gericht-restaurant-webapp.github.io
  Gericht Restaurant                      
                                         
 Gericht Restaurant website is created with ReactJS, HTML and CSS.
